@@ -8,7 +8,7 @@ import type {
 export class ParliamentLordsvotesApi implements ICredentialType {
 	name = 'N8nDevParliamentLordsvotesApi';
 
-	displayName = 'parliament-lordsvotes API';
+	displayName = 'Parliament Lordsvotes API';
 
 	icon: Icon = { light: 'file:../nodes/ParliamentLordsvotes/parliament-lordsvotes.svg', dark: 'file:../nodes/ParliamentLordsvotes/parliament-lordsvotes.dark.svg' };
 
@@ -22,7 +22,7 @@ export class ParliamentLordsvotesApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'https://api.example.com',
-			description: 'The base URL of your parliament-lordsvotes API server',
+			description: 'The base URL of your Parliament Lordsvotes API server',
 		},
 		{
 			displayName: 'API Key',

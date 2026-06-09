@@ -3,14 +3,14 @@ import { divisionsDescription } from './resources/divisions';
 
 export class ParliamentLordsvotes implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'parliament-lordsvotes',
+		displayName: 'Parliament Lordsvotes',
 		name: 'N8nDevParliamentLordsvotes',
 		icon: { light: 'file:./parliament-lordsvotes.svg', dark: 'file:./parliament-lordsvotes.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'API that allows querying of Lords Votes data.',
-		defaults: { name: 'parliament-lordsvotes' },
+		defaults: { name: 'Parliament Lordsvotes' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

@@ -53,9 +53,16 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Divisions | Get return divisions results grouped by party, Get return voting records for a member, Get return a list of divisions, Get return total results count, Get return a division |
+<details>
+<summary><b>Divisions</b> (5 operations)</summary>
+
+- Get Return Divisions results grouped by party
+- Get Return voting records for a Member
+- Get Return a list of Divisions
+- Get Return total results count
+- Get Return a Division
+
+</details>
 
 ---
 

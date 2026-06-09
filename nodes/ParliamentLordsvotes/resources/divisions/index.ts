@@ -122,7 +122,7 @@ export const divisionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Member Id",
+			"displayName": "Member ID",
 			"name": "MemberId",
 			"description": "Divisions returning Member with Member ID voting records",
 			"default": 0,
@@ -410,7 +410,7 @@ export const divisionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Member Id",
+			"displayName": "Member ID",
 			"name": "MemberId",
 			"required": true,
 			"description": "Id number of a Member whose voting records are to be returned",
@@ -799,7 +799,7 @@ export const divisionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Member Id",
+			"displayName": "Member ID",
 			"name": "MemberId",
 			"description": "Divisions returning Member with Member ID voting records",
 			"default": 0,
@@ -1162,7 +1162,7 @@ export const divisionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Member Id",
+			"displayName": "Member ID",
 			"name": "MemberId",
 			"description": "Divisions returning Member with Member ID voting records",
 			"default": 0,
@@ -1450,7 +1450,7 @@ export const divisionsDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Division Id",
+			"displayName": "Division ID",
 			"name": "divisionId",
 			"required": true,
 			"description": "Division with ID specified",
