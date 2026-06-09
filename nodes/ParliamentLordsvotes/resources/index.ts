@@ -1,0 +1,1 @@
+export { divisionsDescription } from './divisions';
